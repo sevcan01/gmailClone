@@ -1,5 +1,5 @@
-# gmailClone
-## using HTML SCSS JavaScript 
+# ⚡︎⚡︎gmailClone
+## its a clone project created using HTML, SCSS, JAVA SCRIPT 
 
-### screen 
+### screen ⚡︎⚡︎⚡︎
 ![](gmail.gif)
